@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Polina</h1>
-<h3 align="center">I’m interested in mathematics,data science and design</h3>
+<h3 align="center">I’m interest in mathematics, data science and design</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
