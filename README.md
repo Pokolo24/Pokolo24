@@ -4,7 +4,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/https://www.kaggle.com/pokolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pokolo" height="30" width="40" /></a>
-<a href="https://web.telegram.org/a/@polina_polarida" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/rounded-social-media/512/telegram-1024.png" alt="https://web.telegram.org/a/@polina_polarida" height="30" width="40" /></a>
+<a href="https://web.telegram.org/a/@polina_polarida" target="blank"><img align="center" src="[https://cdn1.iconfinder.com/data/icons/rounded-social-media/512/telegram-1024.png](https://cdn-edge.kwork.ru/pics/t3/68/20192045-1649441568.jpg)" alt="https://web.telegram.org/a/@polina_polarida" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
