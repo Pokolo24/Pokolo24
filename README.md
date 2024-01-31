@@ -6,7 +6,7 @@
 <a href="https://www.kaggle.com/pokolo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/pokolo" height="30" width="40" /></a>
 <a href="https://t.me/polina_polarida" target="blank"><img align="center" src="https://lh3.ggpht.com/H2rdZp9dycHFbC971xPmYOZqIxinkW-xHJjRmEsrJdAoNeCobLF0VeR_5KkY56HR0BC4" alt="https://t.me/polina_polarida" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Pokolo" target="blank"><img align="center" src="https://assets.codeforces.com/images/sponsored-by-me.png" alt="https://codeforces.com/profile/Pokolo" height="80" width="100" /></a>
-<a href="https://leetcode.com/Pokolo/" target="blank"><img align="center" src="https://avatars.mds.yandex.net/get-images-cbir/1648143/VbCJ-Fga3ZSrPr0LvqpgQg5898/ocr" alt="https://leetcode.com/Pokolo" height="40" width="90" /></a>
+<a href="https://leetcode.com/Pokolo/" target="blank"><img align="center" src="https://avatars.mds.yandex.net/get-images-cbir/1648143/VbCJ-Fga3ZSrPr0LvqpgQg5898/ocr" alt="https://leetcode.com/Pokolo" height="30" width="90" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
